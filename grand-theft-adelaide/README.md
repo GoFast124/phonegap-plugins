@@ -31,6 +31,8 @@ The world is "Light City", a GTA-style take on greater Adelaide traced from a fa
 - **South:** Shiraz, Victory Harbour with the causeway to the Isle of Penguins, and the Bordeaux Peninsula.
 - **Wallaby Island:** reached by the ferry at the end of Cape Rd.
 
+The dark-green areas of the source map are real hills: the Mount Haughty ranges (peaking at the summit café, about 38 m up), the southern ranges around Shiraz and Victory Harbour, the middle of Wallaby Island and Bel Air Hills. Roads cut level corridors through them, and cars slow down going uphill.
+
 Main roads follow the map: Main North Rd, Port Rd, Anzac Hwy, South Rd, the South Eastern Fwy, the Hills Loop and more. Traffic follows the road network, including curves and diagonals.
 
 ## Missions
