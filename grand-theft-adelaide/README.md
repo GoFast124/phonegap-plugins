@@ -1,6 +1,8 @@
 # Grand Theft Adelaide
 
-A top-down, GTA-style browser game set in Adelaide, South Australia. It's a single HTML file with no build step or dependencies. Open `index.html` in a browser to play.
+A 3D, GTA-style browser game set in Adelaide, South Australia. It's a single HTML file with no build step. It renders with [Three.js](https://threejs.org) loaded from the jsDelivr CDN, so it needs an internet connection. Open `index.html` in a browser to play (some browsers need it served over HTTP rather than opened as a file, for example with `python3 -m http.server`).
+
+The game has a third-person chase camera, real-time sun and shadows, a day/night cycle with lit office windows and headlights, glass towers that reflect the sky, and shiny cars.
 
 ## Controls
 
@@ -12,6 +14,7 @@ A top-down, GTA-style browser game set in Adelaide, South Australia. It's a sing
 | J / Ctrl / click | Punch or shoot |
 | Shift | Sprint |
 | Q | Switch weapon |
+| Right-drag / swipe | Look around |
 | M | Map |
 | P / Esc | Pause and mission list |
 
